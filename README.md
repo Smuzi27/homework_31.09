@@ -33,7 +33,7 @@ python_course/
 └── README.md
 ```
 
-**`problems/`**
+**`tasks/`**
 Содержит решения задач LeetCode. Каждый файл соответствует отдельной задаче.
 
 **`screenshots/`**
