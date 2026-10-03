@@ -17,7 +17,7 @@
 ```text
 python_course/
 │
-├── tacks/
+├── problems/
 │   ├── 18_4sum.py
 │   ├── 27_remove_element.py
 │   └── 58_length_of_last_word.py
@@ -33,7 +33,7 @@ python_course/
 └── README.md
 ```
 
-**`tasks/`**
+**`problems/`**
 Содержит решения задач LeetCode. Каждый файл соответствует отдельной задаче.
 
 **`screenshots/`**
