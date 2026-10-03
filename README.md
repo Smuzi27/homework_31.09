@@ -17,7 +17,7 @@
 ```text
 python_course/
 │
-├── problems/
+├── tacks/
 │   ├── 18_4sum.py
 │   ├── 27_remove_element.py
 │   └── 58_length_of_last_word.py
